@@ -1,4 +1,4 @@
-# CSharp RabbitMQ - Consumer and Producer Demo
+# C# - RabbitMQ - Consumer and Producer Demo
 
 A project which consists of 2 applications - a Consumer and Producer to be used by the RabbitMQ Message Broker (in C#).
 
