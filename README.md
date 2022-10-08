@@ -9,7 +9,7 @@ A project which consists of 2 applications - a Consumer and Producer to be used 
 
 - **QueueProducer**
 
-- ** _docker.yaml** (docker file for the RabbitMQ Instance + management)
+- **_docker.yaml** (docker file for the RabbitMQ Instance + management)
 
 ## Consumer:
 - **DirectExchangeConsumer**
